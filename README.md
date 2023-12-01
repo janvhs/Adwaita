@@ -41,6 +41,7 @@ and makes writing Desktop-Apps overly complicated.
     - [ ] [Leptos](https://github.com/leptos-rs/leptos)
   - [ ] Thread safety?
     - [ ] Reactivity should work in multithreaded programs
+  - [ ] Write tests
 
 ### Libadwaita
 
@@ -51,11 +52,18 @@ and makes writing Desktop-Apps overly complicated.
 - [ ] Automatic memory allocation and deallocation
 - [ ] Handling of GTK-XML UI files
 - [ ] Still feel mostly s*wifty*
+- [ ] Write tests
 
 ### General
 
 - [ ] **Documentation**
+  - [ ] Document the source, so other can follow.
 - [ ] **Build an App**
+- [ ] Upgrade to Swift 5.9 as soon as it becomes available on Fedora Arm64
+  - [ ] Try to still support Swift 5.8
+- [ ] Common commit message practices
+  - [ ] Try to follow [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+  - [ ] Not every commit needs this, but try to explain what you're doing, so other can follow your thoughts.
 - [ ] Follow best practices
 - [ ] Decide on license. LGPL-2.1 (upstream) or MPL v2
   - [ ] *Real work* done by upstream GNOME
