@@ -1,9 +1,9 @@
-# Adwaita
+# AdwaitaUI
 
-**Adwaita** is a *high-level* library around **[GNOME's libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita)** to provide a swifty development
+**AdwaitaUI** is a *high-level* library around **[GNOME's libadwaita](https://gnome.pages.gitlab.gnome.org/libadwaita)** to provide a swifty development
 experience for building GNOME apps.
 
-Furthermore, it exposes **Libadwaita**, Adwaita's *low-level* counterpart, wrapping the C-API.
+Furthermore, it exposes **Libadwaita**, AdwaitaUI's *low-level* counterpart, wrapping the C-API.
 
 ## Current Stage
 
@@ -22,7 +22,7 @@ and makes writing desktop-apps overly complicated.
 
 ## Goals
 
-### Adwaita
+### AdwaitaUI
 
 - [ ] Handwritten **POC**
 - [ ] Exposing all libadwaita widgets
